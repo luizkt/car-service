@@ -16,3 +16,6 @@ gradle-app.setting
 # Ignore metadata from IDE
 .project
 .idea
+.project
+.classpath
+.settings
